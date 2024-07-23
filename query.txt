@@ -1,0 +1,1 @@
+query_id=AAG9-rRIAAAAAL36tEiWdRec&user=%7B%22id%22%3A1219820221%2C%22first_name%22%3A%223332220044_Ahar%20Choiri%20Dwi%20Kusworo%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22aharchoirii%22%2C%22language_code%22%3A%22id%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1721722310&hash=09fcc9c7f8139d215d91c1c9ea2c46ed6014f9ab3dece6287d5da6ec6371de47
